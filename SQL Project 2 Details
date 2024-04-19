@@ -1,7 +1,9 @@
 Project Title: Nashville Housing Data Cleaning
 
 Description:
-This project involves cleaning a dataset containing Nashville housing information to ensure data accuracy and consistency. The dataset encompasses various details such as property addresses, sale prices, and sale dates. By standardizing formats, resolving missing values, and removing duplicates, the dataset is prepared for insightful analysis.
+This project involves cleaning a dataset containing Nashville housing information to ensure data accuracy and consistency. 
+The dataset encompasses various details such as property addresses, sale prices, and sale dates. By standardizing formats,
+resolving missing values, and removing duplicates, the dataset is prepared for insightful analysis.
 
 Key Steps:
 
